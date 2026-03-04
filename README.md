@@ -1,2 +1,2 @@
-# Programaci-n-II
-Programación II - Luna Mariana Calatayud
+# Programacion-II
+Programacion II - Luna Mariana Calatayud
